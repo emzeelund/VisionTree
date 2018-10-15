@@ -1,0 +1,23 @@
+/** Custom CSS here **/
+
+.item1
+{
+  background-image: url('../img/home_main.jpg');
+  height: 700px;
+}
+
+.banner-object
+{
+  padding: 50px;
+}
+
+@media only screen and (max-width:1080px)
+{
+  .col-sm-3 {
+    float: left;
+  }
+}
+
+.col-md-3 {
+  float: left;
+}
